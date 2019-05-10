@@ -155,7 +155,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text {
   color: white;
-  background-color: black
+  background-color: black;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
