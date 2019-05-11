@@ -64,6 +64,14 @@
   text-align: center;
   font-size: 18px;
 }
+.mytextabout{
+  position: relative;
+  left: 25%;
+  top: 15%;
+  width: 50%;
+  text-align: center;
+  font-size: 18px;
+}
 .icon-bar {
   position: fixed;
   top: 50%;
@@ -221,4 +229,9 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
-
+.center {
+  position: inherit;
+  top: 100px;
+  text-align: center;
+  
+}
