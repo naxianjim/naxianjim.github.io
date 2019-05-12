@@ -94,6 +94,10 @@
   width: 100%;
   height: auto;
 }
+.emails{
+  text-align: left;
+}
+
 .emails:link{
   color: white;
   font-size: 24px;
